@@ -1,2 +1,1 @@
-dev
-I was changed in dev branch.
+I was changed in master branch.
